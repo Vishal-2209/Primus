@@ -767,8 +767,8 @@ This is the best way to understand how standardized tool integration works.
 
 ### Step 7: Check n8n for Automation Angle
 
-- [ ] Try n8n (do this last)
-- [ ] By now you'll understand what's happening in the backend, so the visual tool will make more sense and you'll know where its limits are
+- [x] Try n8n (do this last)
+- [x] By now you'll understand what's happening in the backend, so the visual tool will make more sense and you'll know where its limits are
 
 ---
 
